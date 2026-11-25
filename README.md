@@ -50,8 +50,9 @@ A lightweight demand forecast estimates likely orders by crop, area, and week us
 - **Payments and privacy:** integrate a regulated payment provider if required for a pilot; collect only necessary personal information, use role-based access, and provide clear consent and grievance channels. Payment and legal workflows must be checked with local authorities before launch.
 
 ### Process flow
+<img width="1200" height="920" alt="image" src="https://github.com/user-attachments/assets/fcf03519-5eef-4bdc-8e07-3b07bffbe262" />
 
-![HarvestLink Local technical process diagram](HarvestLink_Local_Technical_Flow.svg)
+
 
 ```mermaid
 flowchart TD
